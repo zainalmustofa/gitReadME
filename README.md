@@ -1,7 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zainalmustofa&show_icons=true">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainalmustofa&layout=compact)](https://github.com/zainalmustofa)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zainalmustofa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=zainalmustofa&show_icons=true)](https://github.com/zainalmustofa)
 
 ## Hi there I'm Zainal Mustofa
 
@@ -14,4 +13,6 @@ I am a Software Engineer at Sejasa.com part of Recommend Group
 
 - ⚙️ Stack: `Ruby`, `Ruby on Rails`
 - 🏢 I'm currently working on some `Ruby Projects`
-- 🌱 I'm currently learning about `Python`, `Elixir`, `Go`, `Java`
+- 🌱 I'm currently learning about `Vue`, `Nuxt.js`, `Elixir`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainalmustofa&layout=compact)](https://github.com/zainalmustofa)
